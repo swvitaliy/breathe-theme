@@ -1,5 +1,5 @@
 {{!< default}}
 
-{{#posts.0}}
-{{> post-single }}
-{{/posts.0}}
+{{#foreach posts}}
+  {{> post-single}}
+{{/foreach}}
