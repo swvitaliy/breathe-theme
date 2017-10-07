@@ -16,7 +16,8 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0 1.2em;
+  font-size: 1.1em;
+  margin: 0 1em;
 }
 /* HTML5 display definitions
    ========================================================================== */
