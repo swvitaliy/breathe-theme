@@ -418,8 +418,8 @@ blockquote {
   font-size: 1em;
   margin-left: 0.5em;
 }
-.main-menu li:first-child {
-  margin-left: 0;
+.main-menu li {
+  margin: 0;
 }
 .main-footer {
   margin-top: 2em;
