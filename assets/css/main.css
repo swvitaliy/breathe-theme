@@ -16,7 +16,6 @@ html {
  * Remove default margin.
  */
 body {
-  font-size: 1.1em;
   margin: 0 1em;
 }
 /* HTML5 display definitions
@@ -361,7 +360,7 @@ body {
   background: #ffffff;
   color: #333333;
   font-family: MONOSPACE;
-  font-size: 1.3em;
+  font-size: 1.1em;
   line-height: 1.6em;
   -webkit-font-smoothing: antialiased;
 }
