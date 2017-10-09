@@ -3,9 +3,9 @@
 {{#tag}}
   {{#has slug="allposts"}}
     tag/allposts
-  {{else}}
-    {{#foreach posts}}
-      {{> post-item}}
-    {{/foreach}}
   {{/has}}
 {{/tag}}
+
+{{#foreach posts}}
+    {{> post-item}}
+  {{/foreach}}
