@@ -1,5 +1,9 @@
 {{!< default}}
 
-{{#foreach posts}}
-  {{> post-item}}
-{{/foreach}}
+{{#has slug="tag/allposts"}}
+  tag/allposts
+{{else}}
+  {{#foreach posts}}
+    {{> post-item}}
+  {{/foreach}}
+{{/has}}
