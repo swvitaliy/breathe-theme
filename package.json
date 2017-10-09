@@ -1,6 +1,6 @@
 {
   "name": "breathe-theme",
-  "version": "1.0.19",
+  "version": "1.0.33",
   "description": "Minimalist theme for Ghost by swvitaliy",
   "main": "index.js",
   "scripts": {
