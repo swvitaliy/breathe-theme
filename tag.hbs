@@ -2,7 +2,11 @@
 
 {{#tag}}
   {{#has slug="allposts"}}
-  {{> allposts}}
+    {{#get "posts" order="published_at desc"}}
+      {{#foreach posts}}
+        {{> post-item}}
+      {{/foreach}}
+    {{/get}}
   {{/has}}
 {{/tag}}
 
