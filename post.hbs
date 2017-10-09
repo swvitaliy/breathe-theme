@@ -1,5 +1,9 @@
 {{!< default}}
+{{#has slug="all"}}
+
+{{#else}}
 
 {{#post}}
 {{> post-single }}
 {{/post}}
+{{/has}}
