@@ -461,7 +461,7 @@ blockquote {
   text-align: left;
 }
 .post-nav-item.next {
-  text-align: left;
+  text-align: right;
 }
 .post-nav-item.prev:last-child,
 .post-nav-item.next:first-child {
