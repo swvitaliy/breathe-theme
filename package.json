@@ -1,7 +1,7 @@
 {
-  "name": "breathe-theme-swvitaliy",
-  "version": "1.0.1",
-  "description": "Minimalist theme for Ghost (swvitaliy)",
+  "name": "breathe-theme",
+  "version": "1.0.19",
+  "description": "Minimalist theme for Ghost by swvitaliy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
