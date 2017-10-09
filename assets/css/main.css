@@ -458,7 +458,7 @@ blockquote {
   text-overflow: ellipsis;
 }
 .post-nav-item.prev {
-  text-align: right;
+  text-align: left;
 }
 .post-nav-item.next {
   text-align: left;
